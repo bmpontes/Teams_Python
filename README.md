@@ -42,7 +42,7 @@ You can run the following commands:
 __Note__: `python3` is for linux, if you are in windows use `python` instead.
 
 ## Project Status
-- Project is: __complete__.
+- Project is __complete__.
 
 ## Contact
-- Created by: @bmpontes
+- Created by __@bmpontes__.
