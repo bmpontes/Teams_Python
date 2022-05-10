@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General Information
-> This app generate two teams of five elements randomly or if you want to generate manually.
+> This app generate two teams of five elements randomly or if you want manually.
 
 > In "players.txt" file are the names of the players registered for the game.
 
