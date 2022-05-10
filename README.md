@@ -27,11 +27,11 @@ __Note:__ This app only accepts 10 players.
 You can run the following commands:
 
 > `python3 teams.py -action players` 
-- show de current players registered to the game.
+- Show the current players registered to the game.
 
 
 > `python3 teams.py -action random` 
-- run de script and generated two teams randomly.
+- Run the script and generated two teams randomly.
 
 
 > `python3 teams.py -action manual` 
@@ -45,4 +45,4 @@ __Note__: `python3` is for linux, if you are in windows use `python` instead.
 - Project is: __complete__.
 
 ## Contact
-- Created by: __Bernardo Pontes__
+- Created by: @bmpontes
